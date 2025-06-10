@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/aalokkunwar/aalokkunwar/main/wave.gif" width="30px">Hello, World! I'm Aalok Kunwar
+# <img src="https://raw.githubusercontent.com/aalokkunwar/aalokkunwar/main/wave.gif" width="30px">Hello, World! </br>I'm Aalok Kunwar
 
 **Full Stack Developer | AI Enthusiast | Tech Educator | Open Source Contributor**
 
