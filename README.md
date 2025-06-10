@@ -48,7 +48,7 @@ I'm a **dynamic IT professional** with 2+ years of experience transitioning into
 
 
 ### 🔹 [Nepali NLP Toolkit](https://github.com/aalokkunwar/nepali-nlp)  
-> Natural Language Processing toolkit for Nepali language processing.
+> Natural Language Processing toolkit for Nepali language processing is processing.
 
 ### 🔹 [Yakumaya Helping Hands Foundation](https://www.yhhfn.org.np)  
 > Tech support & web presence for a non-profit focused on Nepal’s rural development.
