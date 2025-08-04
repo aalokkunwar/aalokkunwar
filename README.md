@@ -53,14 +53,7 @@ I'm a **dynamic IT professional** with 2+ years of experience transitioning into
 ### 🔹 [Yakumaya Helping Hands Foundation](https://www.yhhfn.org.np)  
 > Tech support & web presence for a non-profit focused on Nepal’s rural development.
 
----
 
-## 📚 Certifications & Training
-
-- MERN Stack Development – *Evolve IT Hub Nepal, 2024*
-- WordPress Development – *Evolve IT Hub Nepal, 2024*
-
----
 
 ## ✍️ Recent Blog Posts
 
