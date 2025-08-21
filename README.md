@@ -142,7 +142,7 @@ motto: "Building digital solutions that matter"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aalokkunwar/aalokkunwar/main/footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:FF6B6B&height=120&section=header&text=Let's%20Build%20Something%20Amazing&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ### 💬 **Get In Touch**
 
