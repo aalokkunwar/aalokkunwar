@@ -19,15 +19,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`yaml
-name: Aalok Kunwar
-role: Full Stack Developer
-experience: 2+ years
-current_company: SequoiaCodes
-location: Nepal
-interests: [AI/ML, Web Development, Open Source]
-motto: "Building digital solutions that matter"
-\`\`\`
+\
+Name: Aalok Kunwar <br>
+Role: Full Stack Developer <br>
+Experience: 2+ years <br>
+Current Company: SequoiaCodes <br>
+Location: Nepal <br>
+Interests: [AI/ML, Web Development, Open Source] <br>
+Motto: "Building digital solutions that matter" <br>
+
 
 🔹 **Dynamic IT Professional** transitioning into full-stack development  
 🔹 **Currently Contributing** at [SequoiaCodes](https://www.sequoia.codes/)  
